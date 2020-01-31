@@ -1,4 +1,4 @@
-<img src="/assets/images/pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" alt="attach:cat" width="200" height="200">
+<img src="/assets/images/pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" alt="attach:cat" width="200">
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
