@@ -1,4 +1,4 @@
-<img src="/assets/images/bullet.png" alt="attach:cat" title="attach:cat" width="200" height="200">
+<img src="/assets/images/bullet.png" alt="attach:cat" width="200" height="200">
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
