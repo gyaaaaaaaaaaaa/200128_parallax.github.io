@@ -1,4 +1,4 @@
-2
+3
 
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="testdayo" onclick="testdayo()">
 
@@ -21,7 +21,8 @@ class名をかぶんないやつにしてみるか。
 `_layouts/default.html`か？　違った。  
 `_sass/jekyll-theme-midnight.scss`か？　違った。  
 `_sass/normalize.scss`か？　違った。  
-`_sass/rouge-base16-dark.scss`か？  
+`_sass/rouge-base16-dark.scss`か？違った。  
+`assets/css/style.scss`か？  
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
