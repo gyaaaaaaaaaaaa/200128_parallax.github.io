@@ -1,13 +1,5 @@
 3
 
-<style>
-  .test{
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  }
-</style>
-
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="200203_test" onclick="testdayo()">
 
 ↑これだ！これでmdファイルでclassを付与しながら画像を表示できる！  
