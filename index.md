@@ -1,6 +1,8 @@
 i
 
-<img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
+<img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="test">
+
+↑これだ！これでmdファイルでclassを付与しながら画像を表示できる！
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
