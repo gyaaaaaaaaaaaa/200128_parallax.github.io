@@ -1,4 +1,4 @@
-3
+４
 
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="testdayo" onclick="testdayo()">
 
