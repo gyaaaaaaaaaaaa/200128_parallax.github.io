@@ -1,6 +1,6 @@
 10
 
-<img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="testdayo" onclick="testdayo()" style="position: -webkit-sticky; position: sticky; top: 0;">
+<img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" onclick="testdayo()" style="position: -webkit-sticky; position: sticky; top: 0;">
 
 ↑これだ！これでmdファイルでclassを付与しながら画像を表示できる！  
 この次に普通に`<script></script>`でコード書けば普通に動くだろう！  
