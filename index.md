@@ -1,12 +1,4 @@
-<style>
-  .testdayo{
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  }
-</style>
-
-5
+6
 
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="testdayo" onclick="testdayo()">
 
