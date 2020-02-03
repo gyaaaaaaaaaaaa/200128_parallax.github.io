@@ -25,6 +25,7 @@ class名をかぶんないやつにしてみるか。
 `assets/css/style.scss`か？違った。全然パララックスせんやん。  
 `assets/css/ie.scss`でもない。えええ？？？  
 このmdファイルに直接`<style>`タグで書いてもだめ。やばすぎる。オンクリックの動きはできたけど、パララックスができない。
+新規cssファイルを作って、`_layouts/default.html`で呼び出してもだめ。
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
