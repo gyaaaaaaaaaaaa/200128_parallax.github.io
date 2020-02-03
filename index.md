@@ -2,7 +2,7 @@ i
 
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="test">
 
-↑これだ！これでmdファイルでclassを付与しながら画像を表示できる！
+↑これだ！これでmdファイルでclassを付与しながら画像を表示できる！  
 この次に普通に`<script></script>`でコード書けば普通に動くだろう！
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
