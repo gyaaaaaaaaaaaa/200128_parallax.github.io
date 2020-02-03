@@ -6,7 +6,7 @@
     }
 </style></span>
 
-8
+9
 
 <img src="pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" class="testdayo" onclick="testdayo()">
 
