@@ -20,7 +20,7 @@ CSSはどこに書けばいいのか？
 class名をかぶんないやつにしてみるか。  
 `_layouts/default.html`か？　違った。  
 `_sass/jekyll-theme-midnight.scss`か？　違った。  
-```_sass/normalize.scss```か？　
+`_sass/normalize.scss`か？　
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
