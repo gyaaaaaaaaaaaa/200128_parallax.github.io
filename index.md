@@ -24,7 +24,8 @@
 CSSはどこに書けばいいのか？  
 `jekyll-theme-midnight.scss` か？  違った。  
 `_layouts/default.html`か？　違った。  
-`_sass/normalize.scss`か？  
+`_sass/normalize.scss`か？　違った。  
+class名をかぶんないやつにしてみるか。
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
