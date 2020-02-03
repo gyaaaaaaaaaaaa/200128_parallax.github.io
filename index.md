@@ -31,7 +31,8 @@ class名をかぶんないやつにしてみるか。
 `_sass/normalize.scss`か？　違った。  
 `_sass/rouge-base16-dark.scss`か？違った。  
 `assets/css/style.scss`か？違った。全然パララックスせんやん。  
-`assets/css/ie.scss`でもない。えええ？？？
+`assets/css/ie.scss`でもない。えええ？？？  
+このmdファイルに直接`<style>`タグで書いてもだめ。やばすぎる。オンクリックの動きはできたけど、パララックスができない。
 
 <img src="attach:pokemon-sword-shield-20bp-serialcode-aikotoba-series2-2.jpg" width="200">
 
